@@ -1,0 +1,14 @@
+{
+  "name": "special_lecture_assignment_2-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabriel6181997/special_lecture_software_design_assignment_2.4.git",
+  "author": "gabriel6181997 <gabriel6181997@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
