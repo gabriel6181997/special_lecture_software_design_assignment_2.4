@@ -14,7 +14,6 @@ const rotate90Degree = (array) => {
       newArray[c][r] = array[r][col - c];
     }
   }
-  console.log("newArray", newArray);
   return newArray;
 };
 
